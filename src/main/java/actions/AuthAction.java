@@ -113,5 +113,4 @@ public class AuthAction extends ActionBase {
         redirect(ForwardConst.ACT_AUTH, ForwardConst.CMD_SHOW_LOGIN);
 
     }
-
 }
